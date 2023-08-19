@@ -1,1 +1,1 @@
-ReactDOM.render(<h1>Hello everyone, my name is Allen </h1>, document.getElementById("root"))
+ReactDOM.create(<h1>Hello everyone, my name is Allen </h1>, document.getElementById("root"))
